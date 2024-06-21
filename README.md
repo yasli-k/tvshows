@@ -1,6 +1,6 @@
-Title: name of any tvshow
-Seasons: how many seasons does it have
-Genre: action, fantasy, comedy,.....
+Title: name of any tvshow<br>
+Seasons: how many seasons does it have<br>
+Genre: action, fantasy, comedy,.....<br>
 
 
 | Name | Method | Path |
