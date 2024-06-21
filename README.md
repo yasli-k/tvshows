@@ -1,3 +1,8 @@
+Title: name of any tvshow
+Seasons: how many seasons does it have
+Genre: action, fantasy, comedy,.....
+
+
 | Name | Method | Path |
 | :---         |     :---:      |          ---: |
 | Retrieve tvshows collection   | GET     |  /tvshows  |
